@@ -219,4 +219,4 @@ For support, papasanikarthik@gmail.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ using Flutter
+
