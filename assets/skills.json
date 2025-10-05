@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dribbling",
+    "level": "Basic",
+    "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=400"
+  },
+  {
+    "name": "Passing",
+    "level": "Basic",
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=400"
+  },
+  {
+    "name": "Running",
+    "level": "Basic",
+    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=400"
+  },
+  {
+    "name": "Vault",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=400"
+  },
+  {
+    "name": "Sprint Technique",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400"
+  },
+  {
+    "name": "Ball Control",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=400"
+  },
+  {
+    "name": "Agility",
+    "level": "Advanced",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400"
+  },
+  {
+    "name": "Power Training",
+    "level": "Advanced",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+  },
+  {
+    "name": "Strategic Play",
+    "level": "Advanced",
+    "image": "https://images.unsplash.com/photo-1592656094267-764a45160876?w=400"
+  }
+]
